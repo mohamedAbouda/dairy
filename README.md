@@ -14,4 +14,4 @@ The application consists of a frontend and backend.
 to run the front-end application
 - cd client
 - npm install
-- npm run start 	
+- npm run start
